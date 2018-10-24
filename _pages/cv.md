@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Mechanical Engineering, minor in Materials Science, KU Leuven, 2011 (magna cum laude)
-* M.Sc. in Energy Engineering: thermo-mechanical energy, KU Leuven, 2013 (magna cum laude)
 * Ph.D in Mechanical Engineering, KU Leuven, 2017
+* M.Sc. in Energy Engineering: thermo-mechanical energy, KU Leuven, 2013 (magna cum laude)
+* B.Sc. in Mechanical Engineering, minor in Materials Science, KU Leuven, 2011 (magna cum laude)
 
 Work experience
 ======
@@ -59,6 +59,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
