@@ -35,12 +35,17 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Wind energy
+  * Wind-farm aerodynamics
+  * Cooperative turbine control
+* Simulation and control of turbulent flows
+  * Turbulent inflow conditions
+  * Unsteady adjoint gradient-based optimization
+  * Data-driven methods for system identification and control
+* Development of computational fluid dynamics solvers
+  * Developer of scalable KU Leuven platform SP-Wind
+  * Fluent in variety of scientific programming languages and tools: Fortran, Python, Matlab, MPI 
+  * Experience in optimization code performance on various high-performance computing systems
 
 Publications
 ======
