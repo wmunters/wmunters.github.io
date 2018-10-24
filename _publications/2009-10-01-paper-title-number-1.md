@@ -3,7 +3,7 @@ title: "Towards practical dynamic induction control of wind farms: analysis of o
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'In this paper I investigated the control mechanisms produced by the optimization algorithms from prior work to derive a practical induction control strategy for free-stream turbines to mitigate wake losses in their downstream neighbors.' 
-date: 2018
+date: 2018-01-01
 venue: 'Wind Energy Science'
 paperurl: 'https://doi.org/10.5194/wes-3-409-2018'
 citation: 'Munters W., Meyers J. (2018). &quot;Towards practical dynamic induction control of wind farms: analysis of optimally controlled wind-farm boundary layers and sinusoidal induction control of first-row turbines.&quot; <i>Wind Energy Science</i>. 3, 409 - 425.'
