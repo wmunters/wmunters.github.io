@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Mechanical Engineering, minor in Materials Science, KU Leuven, 2011 (magna cum laude)
+* M.Sc. in Energy Engineering: thermo-mechanical energy, KU Leuven, 2013 (magna cum laude)
+* Ph.D in Mechanical Engineering, KU Leuven, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - present: Postdoctoral Research Assistant
+  * KU Leuven, Leuven, Belgium
+  * Supervisor: professor Johan Meyers, PhD.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013 - 2017: Doctoral Student
+  * KU Leuven, Leuven, Belgium
+  * Supervisor: professor Johan Meyers, PhD.
+
+* 2014: Visiting Researcher
+  * Johns Hopkins University, Baltimore, US
+
+* 2013: Teaching Assistant
+  * KU Leuven, Leuven, Belgium
+  * Duties included: Guiding first-year engineering students in their first practical problem solving & design projects
   
 Skills
 ======
