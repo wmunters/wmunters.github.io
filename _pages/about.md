@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal webpage.
+This is my personal webpage (and is still under construction).
