@@ -44,7 +44,7 @@ Skills
   * Data-driven methods for system identification and control
 * Development of computational fluid dynamics solvers
   * Developer of scalable KU Leuven platform SP-Wind
-  * Fluent in variety of scientific programming languages and tools: Fortran, Python, Matlab, MPI 
+  * Fluent in variety of scientific programming languages and tools: Fortran, Python, Matlab, MPI, ...
   * Experience in optimization code performance on various high-performance computing systems
 
 Publications
