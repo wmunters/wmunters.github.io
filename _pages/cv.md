@@ -27,6 +27,7 @@ Work experience
 
 * 2014: Visiting Researcher
   * Johns Hopkins University, Baltimore, US
+  * Host: professor Charles Meneveau, PhD.
 
 * 2013: Teaching Assistant
   * KU Leuven, Leuven, Belgium
