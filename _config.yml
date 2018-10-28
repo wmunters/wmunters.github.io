@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wim Munters"
-  avatar           : "files/perdekop.png"
+  avatar           : "perdekop.png"
   bio              : "Postdoctoral Researcher at KU Leuven"
   location         : "Leuven, Belgium"
   employer         :
