@@ -5,5 +5,5 @@ type: "Talk"
 permalink: /talks/aps_sanfran2
 venue: "Annual Meeting of the APS Division of Fluid Dynamics."
 date: 2014-11-23
-location: "San Francisco, CA, USA"
+location: "San Francisco, CA, USA. (co-authors: Jay Prakash Goit, Johan Meyers)"
 ---
