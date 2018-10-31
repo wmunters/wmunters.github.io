@@ -1,5 +1,5 @@
 ---
-title: "Optimal control and optimization of wind farms using large-eddy simulations"
+title: "Optimal control and optimization of wind farms using large-eddy simulations."
 collection: talks
 type: "Talk"
 permalink: /talks/euromech

@@ -5,5 +5,5 @@ type: "Talk"
 permalink: /talks/aps_boston
 venue: "Annual Meeting of the APS Division of Fluid Dynamics."
 date: 2015-11-22
-location: "Boston, MA, USA. (co-authors: Jay Prakash Goit, Johan Meyers)"
+location: "Boston, MA, USA. (co-authors: Jay Prakash Goit, Johan Meyers; presented by Johan Meyers)"
 ---
