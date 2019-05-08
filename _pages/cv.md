@@ -17,19 +17,28 @@ Education
 
 Work experience
 ======
-* 2018 - present: Postdoctoral Research Assistant
+* 2019 - present: Lecturer
+  * Department of Mathematics & Computer Science
+  * Center for Analysis, Scientific Computing and Applications
+  * TU Eindhoven, Eindhoven, The Netherlands
+
+* 2018 - 2019: Postdoctoral Research Assistant
+  * Department of Mechanical Engineering
   * KU Leuven, Leuven, Belgium
   * Supervisor: professor Johan Meyers, PhD.
 
 * 2013 - 2017: Doctoral Student
+  * Department of Mechanical Engineering
   * KU Leuven, Leuven, Belgium
   * Supervisor: professor Johan Meyers, PhD.
 
 * 2014: Visiting Researcher
+  * Department of Mechanical Engineering
   * Johns Hopkins University, Baltimore, US
   * Host: professor Charles Meneveau, PhD.
 
 * 2013: Teaching Assistant
+  * Department of Mechanical Engineering
   * KU Leuven, Leuven, Belgium
   * Duties included: Guiding first-year engineering students in their first practical problem solving & design projects
   
