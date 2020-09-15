@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* 2019 - present: Lecturer
+* 2020 - present: Research Engineer
+  * Department of Environmental and Applied Fluid Dynamics
+  * von Karman Institute for Fluid Dynamics, Sint-Genesius-Rode, Belgium
+
+* 2019 - 2020: Lecturer
   * Department of Mathematics & Computer Science
   * Center for Analysis, Scientific Computing and Applications
   * TU Eindhoven, Eindhoven, The Netherlands
