@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wim Munters"
 title_separator          : "-"
 name                     : &name "Wim Munters"
-description              : &description "Postdoctoral researcher at KU Leuven"
+description              : &description "Research Engineer at von Karman Institute for Fluid Dynamics"
 url                      : https://wmunters.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wmunters.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Leuven, Belgium"
   employer         :
   googlescholar    : "https://scholar.google.be/citations?user=MyRpv8AAAAAJ&hl=en"
-  email            :
+  email            : "wim.munters@vki.ac.be"
   uri              :
   bitbucket        :
   codepen          :
