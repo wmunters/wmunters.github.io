@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wim Munters"
 title_separator          : "-"
 name                     : &name "Wim Munters"
-description              : &description "Research Engineer at von Karman Institute for Fluid Dynamics"
+description              : &description "Assistant Professor at von Karman Institute for Fluid Dynamics (Belgium)"
 url                      : https://wmunters.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wmunters.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Wim Munters"
   avatar           : "perdekop.jpg"
-  bio              : "Postdoctoral Researcher at KU Leuven"
+  bio              : "Assistant Professor"
   location         : "Leuven, Belgium"
-  employer         :
+  employer         : "von Karman Institute for Fluid Dynamics"
   googlescholar    : "https://scholar.google.be/citations?user=MyRpv8AAAAAJ&hl=en"
   email            : "wim.munters@vki.ac.be"
   uri              :
